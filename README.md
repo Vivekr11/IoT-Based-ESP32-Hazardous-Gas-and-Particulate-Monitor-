@@ -1,0 +1,2 @@
+# IoT-Based-ESP32-Hazardous-Gas-and-Particulate-Monitor-
+This project presents a  compact, IoT-based air quality monitoring system built around  the ESP32 microcontroller. It integrates MQ9 and MQ7 gas  sensors to detect carbon monoxide (CO), methane (CH₄), and  liquefied petroleum gas (LPG), a Sharp GP2Y1010AU0F dust  sensor for particulate matter, and a DHT11 sensor for  temperature and humidity.
