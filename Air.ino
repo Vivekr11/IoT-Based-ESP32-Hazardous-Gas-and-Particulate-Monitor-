@@ -14,8 +14,8 @@
 #include <DHT.h>
 
 // WiFi credentials
-const char* ssid = "vvk";
-const char* password = "vivek111";
+const char* ssid = "wifi_name";
+const char* password = "wifi_password";
 
 // ThingSpeak
 WiFiClient client;
